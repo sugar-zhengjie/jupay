@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration />
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../jupay-payment-agent/jupay-payment-agent-api/target/classes" />
+    <output-test url="file://$MODULE_DIR$/../../jupay-payment-agent/jupay-payment-agent-api/target/test-classes" />
+    <content url="file://$MODULE_DIR$/../../jupay-payment-agent/jupay-payment-agent-api">
+      <sourceFolder url="file://$MODULE_DIR$/../../jupay-payment-agent/jupay-payment-agent-api/src/main/java" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../jupay-payment-agent/jupay-payment-agent-api/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="jupay-common" />
+  </component>
+</module>

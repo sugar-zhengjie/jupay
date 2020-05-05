@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/jupay.iml" filepath="$PROJECT_DIR$/.idea/jupay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jupay-common/jupay-common.iml" filepath="$PROJECT_DIR$/jupay-common/jupay-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jupay-gateway/jupay-gateway.iml" filepath="$PROJECT_DIR$/jupay-gateway/jupay-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jupay-gateway/jupay-gateway-service/jupay-gateway-service.iml" filepath="$PROJECT_DIR$/jupay-gateway/jupay-gateway-service/jupay-gateway-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jupay-merchant/jupay-merchant.iml" filepath="$PROJECT_DIR$/jupay-merchant/jupay-merchant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jupay-merchant/jupay-merchant-api/jupay-merchant-api.iml" filepath="$PROJECT_DIR$/jupay-merchant/jupay-merchant-api/jupay-merchant-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jupay-merchant-application/jupay-merchant-application.iml" filepath="$PROJECT_DIR$/jupay-merchant-application/jupay-merchant-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jupay-merchant/jupay-merchant-service/jupay-merchant-service.iml" filepath="$PROJECT_DIR$/jupay-merchant/jupay-merchant-service/jupay-merchant-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jupay-operation-application/jupay-operation-application.iml" filepath="$PROJECT_DIR$/jupay-operation-application/jupay-operation-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jupay-payment-agent/jupay-payment-agent.iml" filepath="$PROJECT_DIR$/jupay-payment-agent/jupay-payment-agent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jupay-payment-agent/jupay-payment-agent-api/jupay-payment-agent-api.iml" filepath="$PROJECT_DIR$/jupay-payment-agent/jupay-payment-agent-api/jupay-payment-agent-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jupay-payment-agent/jupay-payment-agent-service/jupay-payment-agent-service.iml" filepath="$PROJECT_DIR$/jupay-payment-agent/jupay-payment-agent-service/jupay-payment-agent-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jupay-transaction/jupay-transaction.iml" filepath="$PROJECT_DIR$/jupay-transaction/jupay-transaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jupay-transaction/jupay-transaction-api/jupay-transaction-api.iml" filepath="$PROJECT_DIR$/jupay-transaction/jupay-transaction-api/jupay-transaction-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jupay-transaction/jupay-transaction-service/jupay-transaction-service.iml" filepath="$PROJECT_DIR$/jupay-transaction/jupay-transaction-service/jupay-transaction-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jupay-uaa/jupay-uaa.iml" filepath="$PROJECT_DIR$/jupay-uaa/jupay-uaa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jupay-uaa/jupay-uaa-api/jupay-uaa-api.iml" filepath="$PROJECT_DIR$/jupay-uaa/jupay-uaa-api/jupay-uaa-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jupay-uaa/jupay-uaa-service/jupay-uaa-service.iml" filepath="$PROJECT_DIR$/jupay-uaa/jupay-uaa-service/jupay-uaa-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jupay-user/jupay-user.iml" filepath="$PROJECT_DIR$/jupay-user/jupay-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jupay-user/jupay-user-api/jupay-user-api.iml" filepath="$PROJECT_DIR$/jupay-user/jupay-user-api/jupay-user-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jupay-user/jupay-user-service/jupay-user-service.iml" filepath="$PROJECT_DIR$/jupay-user/jupay-user-service/jupay-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-rocketmq/rocketmq-consumer/rocketmq-consumer.iml" filepath="$PROJECT_DIR$/test-rocketmq/rocketmq-consumer/rocketmq-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-rocketmq/rocketmq-producer/rocketmq-producer.iml" filepath="$PROJECT_DIR$/test-rocketmq/rocketmq-producer/rocketmq-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-freemarker/test-freemarker.iml" filepath="$PROJECT_DIR$/test-freemarker/test-freemarker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-rocketmq/test-rocketmq.iml" filepath="$PROJECT_DIR$/test-rocketmq/test-rocketmq.iml" />
+    </modules>
+  </component>
+</project>

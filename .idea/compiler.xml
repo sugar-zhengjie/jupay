@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jupay-transaction-service" />
+        <module name="jupay-gateway-service" />
+        <module name="jupay-common" />
+        <module name="jupay-merchant-service" />
+        <module name="jupay-payment-agent-api" />
+        <module name="jupay-merchant-api" />
+        <module name="jupay-payment-agent-service" />
+        <module name="rocketmq-consumer" />
+        <module name="jupay-uaa-service" />
+        <module name="jupay-user-api" />
+        <module name="jupay-uaa-api" />
+        <module name="rocketmq-producer" />
+        <module name="jupay-transaction-api" />
+        <module name="jupay-merchant-application" />
+        <module name="jupay-user-service" />
+        <module name="jupay-operation-application" />
+        <module name="test-freemarker" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jupay" target="1.8" />
+      <module name="jupay-common" target="1.8" />
+      <module name="jupay-gateway" target="1.8" />
+      <module name="jupay-gateway-service" target="1.8" />
+      <module name="jupay-merchant" target="1.8" />
+      <module name="jupay-merchant-api" target="1.8" />
+      <module name="jupay-merchant-application" target="1.8" />
+      <module name="jupay-merchant-service" target="1.8" />
+      <module name="jupay-operation-application" target="1.8" />
+      <module name="jupay-payment-agent" target="1.8" />
+      <module name="jupay-payment-agent-api" target="1.8" />
+      <module name="jupay-payment-agent-service" target="1.8" />
+      <module name="jupay-transaction" target="1.8" />
+      <module name="jupay-transaction-api" target="1.8" />
+      <module name="jupay-transaction-service" target="1.8" />
+      <module name="jupay-uaa" target="1.8" />
+      <module name="jupay-uaa-api" target="1.8" />
+      <module name="jupay-uaa-service" target="1.8" />
+      <module name="jupay-user" target="1.8" />
+      <module name="jupay-user-api" target="1.8" />
+      <module name="jupay-user-service" target="1.8" />
+      <module name="rocketmq-consumer" target="1.8" />
+      <module name="rocketmq-producer" target="1.8" />
+      <module name="test-freemarker" target="1.8" />
+      <module name="test-rocketmq" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="jupay-common" options="-parameters -bootclasspath &quot;C:/Program Files/Java/jdk1.8.0_202/jre/lib/rt.jar;C:/Program Files/Java/jdk1.8.0_202/jre/lib/jce.jar&quot;" />
+      <module name="jupay-gateway-service" options="-parameters" />
+      <module name="jupay-merchant-api" options="-parameters" />
+      <module name="jupay-merchant-application" options="-parameters" />
+      <module name="jupay-merchant-service" options="-parameters" />
+      <module name="jupay-operation-application" options="-parameters -bootclasspath &quot;C:/Program Files/Java/jdk1.8.0_202/jre/lib/rt.jar;C:/Program Files/Java/jdk1.8.0_202/jre/lib/jce.jar&quot;" />
+      <module name="jupay-payment-agent-api" options="-parameters -bootclasspath &quot;C:/Program Files/Java/jdk1.8.0_202/jre/lib/rt.jar;C:/Program Files/Java/jdk1.8.0_202/jre/lib/jce.jar&quot;" />
+      <module name="jupay-payment-agent-service" options="-parameters" />
+      <module name="jupay-transaction-api" options="-parameters -bootclasspath &quot;C:/Program Files/Java/jdk1.8.0_202/jre/lib/rt.jar;C:/Program Files/Java/jdk1.8.0_202/jre/lib/jce.jar&quot;" />
+      <module name="jupay-transaction-service" options="-parameters" />
+      <module name="jupay-uaa-api" options="-parameters -bootclasspath &quot;C:/Program Files/Java/jdk1.8.0_202/jre/lib/rt.jar;C:/Program Files/Java/jdk1.8.0_202/jre/lib/jce.jar&quot;" />
+      <module name="jupay-uaa-service" options="-parameters" />
+      <module name="jupay-user-api" options="-parameters -bootclasspath &quot;C:/Program Files/Java/jdk1.8.0_202/jre/lib/rt.jar;C:/Program Files/Java/jdk1.8.0_202/jre/lib/jce.jar&quot;" />
+      <module name="jupay-user-service" options="-parameters" />
+      <module name="rocketmq-consumer" options="-parameters" />
+      <module name="rocketmq-producer" options="-parameters" />
+      <module name="test-freemarker" options="-parameters" />
+    </option>
+  </component>
+</project>
